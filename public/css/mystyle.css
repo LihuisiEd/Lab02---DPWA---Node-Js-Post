@@ -1,0 +1,12 @@
+.gradient{
+    background: rgb(101,14,177);
+    background: linear-gradient(145deg, rgba(101,14,177,1) 0%, rgba(33,189,221,1) 100%);
+}
+
+.footer-color{
+    background-color: #200b49;
+}
+
+.primary-color{
+    background-color: #5A1FCE;
+}
